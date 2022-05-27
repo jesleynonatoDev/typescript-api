@@ -18,7 +18,7 @@
   "author": "Jes Nonato",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jesleynonatoDev/typescript-api"
+    "url": "https://github.com/jesleynonatoDev/typescript-api.git"
   },
   "license": "ISC",
   "devDependencies": {
